@@ -13,5 +13,5 @@ Coming soon...
 Our robot is a four wheel bot that takes design inspiration from the warthog from halo.
 
 <p align="center">
-	<img src="./IMG_6496.png" width="50%">
+	<img src="https://github.com/felstedrobotics/.github/blob/main/profile/IMG_6496.png?raw=true" width="50%">
 </p>
